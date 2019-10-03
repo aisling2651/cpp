@@ -1,0 +1,5 @@
+﻿  CardGame.cpp
+E:\3rd year\c++\CardGame\CardGame\CardGame.cpp(20,8): warning C4101:  'suitC': unreferenced local variable
+E:\3rd year\c++\CardGame\CardGame\CardGame.cpp(68,21): warning C4018:  '<': signed/unsigned mismatch
+E:\3rd year\c++\CardGame\CardGame\CardGame.cpp(151,17): warning C4018:  '<': signed/unsigned mismatch
+  CardGame.vcxproj -> E:\3rd year\c++\CardGame\Debug\CardGame.exe

@@ -1,0 +1,3 @@
+﻿  STL.cpp
+E:\3rd year\c++\FileIO\STL\STL.cpp(127,20): warning C4018:  '<': signed/unsigned mismatch
+  STL.vcxproj -> E:\3rd year\c++\FileIO\Debug\STL.exe
